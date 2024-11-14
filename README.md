@@ -1,4 +1,4 @@
-# Tour-And-Travel-Django-App
+# Book-Your-Trip-Django-App
 This is a tour and travel django app to book hotels, flights, packages.
 This web app that uses django for backend and HTML,CSS, JavaScript for frontend.
 ## You can login and register as follows:
